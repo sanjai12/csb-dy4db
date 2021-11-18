@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://sanjai12.github.io/csb-dy4db/static/css/main.613f88bb.chunk.css",
+    "main.js": "https://sanjai12.github.io/csb-dy4db/static/js/main.1a53dc2a.chunk.js",
+    "main.js.map": "https://sanjai12.github.io/csb-dy4db/static/js/main.1a53dc2a.chunk.js.map",
+    "runtime-main.js": "https://sanjai12.github.io/csb-dy4db/static/js/runtime-main.1bdf9709.js",
+    "runtime-main.js.map": "https://sanjai12.github.io/csb-dy4db/static/js/runtime-main.1bdf9709.js.map",
+    "static/js/2.ddfbab0a.chunk.js": "https://sanjai12.github.io/csb-dy4db/static/js/2.ddfbab0a.chunk.js",
+    "static/js/2.ddfbab0a.chunk.js.map": "https://sanjai12.github.io/csb-dy4db/static/js/2.ddfbab0a.chunk.js.map",
+    "index.html": "https://sanjai12.github.io/csb-dy4db/index.html",
+    "static/css/main.613f88bb.chunk.css.map": "https://sanjai12.github.io/csb-dy4db/static/css/main.613f88bb.chunk.css.map",
+    "static/js/2.ddfbab0a.chunk.js.LICENSE.txt": "https://sanjai12.github.io/csb-dy4db/static/js/2.ddfbab0a.chunk.js.LICENSE.txt",
+    "static/media/bg.69b7e448.svg": "https://sanjai12.github.io/csb-dy4db/static/media/bg.69b7e448.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdf9709.js",
+    "static/js/2.ddfbab0a.chunk.js",
+    "static/css/main.613f88bb.chunk.css",
+    "static/js/main.1a53dc2a.chunk.js"
+  ]
+}
